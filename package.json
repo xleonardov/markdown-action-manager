@@ -1,9 +1,9 @@
 {
-  "name": "action.tools",
+  "name": "markdown-action-manager",
   "version": "1.0.0",
   "private": true,
-  "repository": "git@github.com:chmac/action.tools.git",
-  "author": "Callum Macdonald <git@callum-macdonald.com>",
+  "repository": "git@github.com:xleonardov/markdown-action-manager.git",
+  "author": "LeonV <git@github.com:xleonardov/markdown-action-manager.git>",
   "license": "MIT",
   "workspaces": [
     "packages/*",
